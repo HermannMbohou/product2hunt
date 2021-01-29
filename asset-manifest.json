@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/product2hunt/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/product2hunt/static/js/main.26937d12.chunk.js",
-    "main.js.map": "/product2hunt/static/js/main.26937d12.chunk.js.map",
-    "runtime-main.js": "/product2hunt/static/js/runtime-main.4e31de4b.js",
-    "runtime-main.js.map": "/product2hunt/static/js/runtime-main.4e31de4b.js.map",
-    "static/js/2.82f59853.chunk.js": "/product2hunt/static/js/2.82f59853.chunk.js",
-    "static/js/2.82f59853.chunk.js.map": "/product2hunt/static/js/2.82f59853.chunk.js.map",
-    "static/js/3.f63b0bb0.chunk.js": "/product2hunt/static/js/3.f63b0bb0.chunk.js",
-    "static/js/3.f63b0bb0.chunk.js.map": "/product2hunt/static/js/3.f63b0bb0.chunk.js.map",
+    "main.css": "/product2hunt/static/css/main.73efbf52.chunk.css",
+    "main.js": "/product2hunt/static/js/main.7f3cee83.chunk.js",
+    "main.js.map": "/product2hunt/static/js/main.7f3cee83.chunk.js.map",
+    "runtime-main.js": "/product2hunt/static/js/runtime-main.f6de1c08.js",
+    "runtime-main.js.map": "/product2hunt/static/js/runtime-main.f6de1c08.js.map",
+    "static/css/2.dcb9beed.chunk.css": "/product2hunt/static/css/2.dcb9beed.chunk.css",
+    "static/js/2.8bedfe9d.chunk.js": "/product2hunt/static/js/2.8bedfe9d.chunk.js",
+    "static/js/2.8bedfe9d.chunk.js.map": "/product2hunt/static/js/2.8bedfe9d.chunk.js.map",
+    "static/js/3.8c83998b.chunk.js": "/product2hunt/static/js/3.8c83998b.chunk.js",
+    "static/js/3.8c83998b.chunk.js.map": "/product2hunt/static/js/3.8c83998b.chunk.js.map",
     "index.html": "/product2hunt/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/product2hunt/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.82f59853.chunk.js.LICENSE.txt": "/product2hunt/static/js/2.82f59853.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/product2hunt/static/media/logo.6ce24c58.svg"
+    "static/css/2.dcb9beed.chunk.css.map": "/product2hunt/static/css/2.dcb9beed.chunk.css.map",
+    "static/css/main.73efbf52.chunk.css.map": "/product2hunt/static/css/main.73efbf52.chunk.css.map",
+    "static/js/2.8bedfe9d.chunk.js.LICENSE.txt": "/product2hunt/static/js/2.8bedfe9d.chunk.js.LICENSE.txt",
+    "static/media/favico.eaef8454.png": "/product2hunt/static/media/favico.eaef8454.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e31de4b.js",
-    "static/js/2.82f59853.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.26937d12.chunk.js"
+    "static/js/runtime-main.f6de1c08.js",
+    "static/css/2.dcb9beed.chunk.css",
+    "static/js/2.8bedfe9d.chunk.js",
+    "static/css/main.73efbf52.chunk.css",
+    "static/js/main.7f3cee83.chunk.js"
   ]
 }
