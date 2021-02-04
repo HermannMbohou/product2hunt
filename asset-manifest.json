@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/product2hunt/static/css/main.3d723bf3.chunk.css",
-    "main.js": "/product2hunt/static/js/main.c45bfae7.chunk.js",
-    "main.js.map": "/product2hunt/static/js/main.c45bfae7.chunk.js.map",
-    "runtime-main.js": "/product2hunt/static/js/runtime-main.f6de1c08.js",
-    "runtime-main.js.map": "/product2hunt/static/js/runtime-main.f6de1c08.js.map",
-    "static/css/2.dcb9beed.chunk.css": "/product2hunt/static/css/2.dcb9beed.chunk.css",
-    "static/js/2.8bedfe9d.chunk.js": "/product2hunt/static/js/2.8bedfe9d.chunk.js",
-    "static/js/2.8bedfe9d.chunk.js.map": "/product2hunt/static/js/2.8bedfe9d.chunk.js.map",
-    "static/js/3.8c83998b.chunk.js": "/product2hunt/static/js/3.8c83998b.chunk.js",
-    "static/js/3.8c83998b.chunk.js.map": "/product2hunt/static/js/3.8c83998b.chunk.js.map",
+    "main.css": "/product2hunt/static/css/main.80f5ef70.chunk.css",
+    "main.js": "/product2hunt/static/js/main.1417a839.chunk.js",
+    "main.js.map": "/product2hunt/static/js/main.1417a839.chunk.js.map",
+    "runtime-main.js": "/product2hunt/static/js/runtime-main.0cd32a9f.js",
+    "runtime-main.js.map": "/product2hunt/static/js/runtime-main.0cd32a9f.js.map",
+    "static/css/2.471bce9c.chunk.css": "/product2hunt/static/css/2.471bce9c.chunk.css",
+    "static/js/2.0fd9cab1.chunk.js": "/product2hunt/static/js/2.0fd9cab1.chunk.js",
+    "static/js/2.0fd9cab1.chunk.js.map": "/product2hunt/static/js/2.0fd9cab1.chunk.js.map",
+    "static/js/3.4b53a0d9.chunk.js": "/product2hunt/static/js/3.4b53a0d9.chunk.js",
+    "static/js/3.4b53a0d9.chunk.js.map": "/product2hunt/static/js/3.4b53a0d9.chunk.js.map",
     "index.html": "/product2hunt/index.html",
-    "static/css/2.dcb9beed.chunk.css.map": "/product2hunt/static/css/2.dcb9beed.chunk.css.map",
-    "static/css/main.3d723bf3.chunk.css.map": "/product2hunt/static/css/main.3d723bf3.chunk.css.map",
-    "static/js/2.8bedfe9d.chunk.js.LICENSE.txt": "/product2hunt/static/js/2.8bedfe9d.chunk.js.LICENSE.txt",
-    "static/media/favico.eaef8454.png": "/product2hunt/static/media/favico.eaef8454.png"
+    "static/css/2.471bce9c.chunk.css.map": "/product2hunt/static/css/2.471bce9c.chunk.css.map",
+    "static/css/main.80f5ef70.chunk.css.map": "/product2hunt/static/css/main.80f5ef70.chunk.css.map",
+    "static/js/2.0fd9cab1.chunk.js.LICENSE.txt": "/product2hunt/static/js/2.0fd9cab1.chunk.js.LICENSE.txt",
+    "static/media/admin.185ab474.jpg": "/product2hunt/static/media/admin.185ab474.jpg",
+    "static/media/eu.ea560806.png": "/product2hunt/static/media/eu.ea560806.png",
+    "static/media/favico.eaef8454.png": "/product2hunt/static/media/favico.eaef8454.png",
+    "static/media/momo.fa14696d.jpg": "/product2hunt/static/media/momo.fa14696d.jpg",
+    "static/media/paypal.ebf78d5c.jpg": "/product2hunt/static/media/paypal.ebf78d5c.jpg",
+    "static/media/visa.b61048ca.jfif": "/product2hunt/static/media/visa.b61048ca.jfif"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6de1c08.js",
-    "static/css/2.dcb9beed.chunk.css",
-    "static/js/2.8bedfe9d.chunk.js",
-    "static/css/main.3d723bf3.chunk.css",
-    "static/js/main.c45bfae7.chunk.js"
+    "static/js/runtime-main.0cd32a9f.js",
+    "static/css/2.471bce9c.chunk.css",
+    "static/js/2.0fd9cab1.chunk.js",
+    "static/css/main.80f5ef70.chunk.css",
+    "static/js/main.1417a839.chunk.js"
   ]
 }
