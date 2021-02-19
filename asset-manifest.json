@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/product2hunt/static/css/main.a3cdee54.chunk.css",
-    "main.js": "/product2hunt/static/js/main.227424fd.chunk.js",
-    "main.js.map": "/product2hunt/static/js/main.227424fd.chunk.js.map",
+    "main.js": "/product2hunt/static/js/main.566201f0.chunk.js",
+    "main.js.map": "/product2hunt/static/js/main.566201f0.chunk.js.map",
     "runtime-main.js": "/product2hunt/static/js/runtime-main.0cd32a9f.js",
     "runtime-main.js.map": "/product2hunt/static/js/runtime-main.0cd32a9f.js.map",
     "static/css/2.471bce9c.chunk.css": "/product2hunt/static/css/2.471bce9c.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.471bce9c.chunk.css",
     "static/js/2.0fd9cab1.chunk.js",
     "static/css/main.a3cdee54.chunk.css",
-    "static/js/main.227424fd.chunk.js"
+    "static/js/main.566201f0.chunk.js"
   ]
 }
