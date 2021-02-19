@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/product2hunt/static/css/main.370e0e54.chunk.css",
+    "main.css": "/product2hunt/static/css/main.a662486d.chunk.css",
     "main.js": "/product2hunt/static/js/main.d03c7811.chunk.js",
     "main.js.map": "/product2hunt/static/js/main.d03c7811.chunk.js.map",
     "runtime-main.js": "/product2hunt/static/js/runtime-main.0cd32a9f.js",
@@ -12,7 +12,7 @@
     "static/js/3.4b53a0d9.chunk.js.map": "/product2hunt/static/js/3.4b53a0d9.chunk.js.map",
     "index.html": "/product2hunt/index.html",
     "static/css/2.471bce9c.chunk.css.map": "/product2hunt/static/css/2.471bce9c.chunk.css.map",
-    "static/css/main.370e0e54.chunk.css.map": "/product2hunt/static/css/main.370e0e54.chunk.css.map",
+    "static/css/main.a662486d.chunk.css.map": "/product2hunt/static/css/main.a662486d.chunk.css.map",
     "static/js/2.0fd9cab1.chunk.js.LICENSE.txt": "/product2hunt/static/js/2.0fd9cab1.chunk.js.LICENSE.txt",
     "static/media/admin.185ab474.jpg": "/product2hunt/static/media/admin.185ab474.jpg",
     "static/media/eu.ea560806.png": "/product2hunt/static/media/eu.ea560806.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.0cd32a9f.js",
     "static/css/2.471bce9c.chunk.css",
     "static/js/2.0fd9cab1.chunk.js",
-    "static/css/main.370e0e54.chunk.css",
+    "static/css/main.a662486d.chunk.css",
     "static/js/main.d03c7811.chunk.js"
   ]
 }
